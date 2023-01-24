@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lighthouse": "^9.6.8",
+    "puppeteer": "^19.5.2",
+    "splunk-sdk": "^1.12.1"
+  }
+}
